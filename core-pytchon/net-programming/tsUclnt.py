@@ -2,6 +2,8 @@
 # @Time    : 2020/10/12 19:35
 # @Author  : JacobZhou
 
+#UDP客户端
+
 from socket import *
 
 HOST = 'localhost'

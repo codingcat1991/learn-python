@@ -1,6 +1,10 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2020/10/12 11:49
 # @Author  : JacobZhou
+
+
+# TCP服务端
+
 from socket import *
 from time import ctime
 
