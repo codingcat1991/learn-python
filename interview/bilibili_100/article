@@ -1,0 +1,6 @@
+The Collections module implements high-performance container datatypes (beyond
+the built-in types list, dict and tuple) and contains many useful data structures
+that you can use to store information in memory.
+
+This article will be about the Counter object.
+
